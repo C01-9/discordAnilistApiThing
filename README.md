@@ -3,3 +3,4 @@ a discord bot written in python that uses the anilist api. I made this mostly cu
 
 to get it to work you'll need to make a bot in the [discord developer portal](https://discord.com/developers/applications). You'll also need the [discord.py](https://discordpy.readthedocs.io/en/latest/index.html) and the [requests](https://pypi.org/project/requests/) libraries.
 
+i made this in like 3 to 4 hours so dont expect it to work perfectly.
